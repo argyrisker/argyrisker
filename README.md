@@ -22,7 +22,7 @@ Biomedical AI and healthcare machine-learning practitioner with a background in 
 
 ## Contact
 - LinkedIn: [linkedin.com/in/argyrios-kerezis](https://linkedin.com/in/argyrios-kerezis)
-- GitHub: [@argyrisker](https://github.com/argyrisker)## Hi there 👋
+- GitHub: [@argyrisker](https://github.com/argyrisker)
 
 <!--
 **argyrisker/argyrisker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
