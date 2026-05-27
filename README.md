@@ -12,7 +12,7 @@ Biomedical AI and healthcare machine-learning practitioner with a background in 
 ## Featured repositories
 - [medical-segmentation-uncertainty](https://github.com/argyrisker/medical-segmentation-uncertainty)
 - [Ki Predictions from Molecular Structure](https://github.com/argyrisker/Ki-predictions)
-- [Machine-learning-Long-Covid-patient-triaging]([https://github.com/argyrisker/Diploma-Thesis](https://github.com/argyrisker/Machine-learning-Long-Covid-patient-triaging))
+- [Machine-learning-Long-Covid-patient-triaging](https://github.com/argyrisker/Machine-learning-Long-Covid-patient-triaging)
 - [Predicting-30-Day-Readmission-and-Length-of-Stay-in-Diabetic-Patients](https://github.com/argyrisker/Predicting-30-Day-Readmission-and-Length-of-Stay-in-Diabetic-Patients)
 - [medical-segmentation-uncertainty](https://github.com/argyrisker/medical-segmentation-uncertainty)
 - [thesis](https://github.com/argyrisker/thesis)
